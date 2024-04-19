@@ -2,7 +2,7 @@
 
 ## Overview
 
-My portfolio website serves as a showcase of my skills, projects, and experiences. It's a platform where I highlight my expertise, share my achievements, and provide insights into my career journey. The website features sections such as an About Me page, Portfolio showcasing my projects, Resume/CV, and Contact information.
+My portfolio website serves as a showcase of my skills, projects, and experiences. It's a platform where I highlight my expertise, share my achievements, and provide insights into my career journey. The website features sections such as an About Me page, a Portfolio showcasing my projects, a Resume/CV, and Contact information.
 
 
 
@@ -18,13 +18,23 @@ The primary purpose of my personal portfolio website is to:
 
     Career Development: It contributes to my career development by providing a platform for self-reflection, goal-setting, and continuous improvement
 
-Overall, my personal portfolio website acts as a digital representation of my professional identity, allowing me to make a positive impression and stand out in the competitive landscape of the industry.
+Overall, my portfolio website acts as a digital representation of my professional identity, allowing me to make a positive impression and stand out in the competitive landscape of the industry.
 
 ## Usage
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone (https://github.com/haajirahyeadallee/Personal-Portfolio)
+   
+2. Open the project directory in your code editor of choice.
+
+3. Install the Live Server extension for your code editor (if not already installed).
+
+4. Open the index.html file in your code editor.
+
+5. Right-click on the index.html file and select "Open with Live Server" from the context menu.
+
+6. Your default web browser should open automatically, directing you to the live version of the project.
 
 
